@@ -1,0 +1,237 @@
+[
+  {
+    "id": "drawer.pages.companies",
+    "defaultMessage": "Companies",
+    "filepath": "locale/compiled/components/AdminDrawer.jsx"
+  },
+  {
+    "id": "drawer.pages.raw",
+    "defaultMessage": "Raw",
+    "filepath": "locale/compiled/components/AdminDrawer.jsx"
+  },
+  {
+    "id": "loginPage.textFieldLabel.userName",
+    "defaultMessage": "User name",
+    "filepath": "locale/compiled/components/common/intl/textfield-labels.jsx"
+  },
+  {
+    "id": "loginPage.textFieldLabel.password",
+    "defaultMessage": "Password",
+    "filepath": "locale/compiled/components/common/intl/textfield-labels.jsx"
+  },
+  {
+    "id": "loginPage.textFieldLabel.confirmPassword",
+    "defaultMessage": "Confirm password",
+    "filepath": "locale/compiled/components/common/intl/textfield-labels.jsx"
+  },
+  {
+    "id": "page404.title",
+    "defaultMessage": "Page not found",
+    "filepath": "locale/compiled/components/common/Page404.jsx"
+  },
+  {
+    "id": "page404.messageText",
+    "defaultMessage": "Try to go",
+    "filepath": "locale/compiled/components/common/Page404.jsx"
+  },
+  {
+    "id": "page404.homeLink",
+    "defaultMessage": "home",
+    "filepath": "locale/compiled/components/common/Page404.jsx"
+  },
+  {
+    "id": "page404.checkLink",
+    "defaultMessage": "Or double check the link. Or contact the administrator :-)",
+    "filepath": "locale/compiled/components/common/Page404.jsx"
+  },
+  {
+    "id": "companyPanel.tooltip.deleteCompanyDisabled",
+    "defaultMessage": "Can't delete a company that has users. Delete its users first",
+    "filepath": "locale/compiled/components/companies-page/CompaniesPage.jsx"
+  },
+  {
+    "id": "companyPanelDetails.buttons.addUser",
+    "defaultMessage": "Add user",
+    "filepath": "locale/compiled/components/companies-page/CompaniesPage.jsx"
+  },
+  {
+    "id": "companiesPage.fab.addCompany",
+    "defaultMessage": "Create company",
+    "filepath": "locale/compiled/components/companies-page/CompaniesPage.jsx"
+  },
+  {
+    "id": "createCompanyDialog.title.edit",
+    "defaultMessage": "Edit company",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateCompanyDialog.jsx"
+  },
+  {
+    "id": "createCompanyDialog.title",
+    "defaultMessage": "Create company",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateCompanyDialog.jsx"
+  },
+  {
+    "id": "createCompanyDialog.textFieldLabel.companyName",
+    "defaultMessage": "Company name",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateCompanyDialog.jsx"
+  },
+  {
+    "id": "createCompanyDialog.buttons.close",
+    "defaultMessage": "Close",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateCompanyDialog.jsx"
+  },
+  {
+    "id": "createCompanyDialog.buttons.edit",
+    "defaultMessage": "Edit",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateCompanyDialog.jsx"
+  },
+  {
+    "id": "createCompanyDialog.buttons.create",
+    "defaultMessage": "Create",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateCompanyDialog.jsx"
+  },
+  {
+    "id": "createUserDialog.title.editUser",
+    "defaultMessage": "Edit user",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateUserDialog.jsx"
+  },
+  {
+    "id": "createUserDialog.title",
+    "defaultMessage": "Create user",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateUserDialog.jsx"
+  },
+  {
+    "id": "createUserDialog.textFieldLabel.userName",
+    "defaultMessage": "User name",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateUserDialog.jsx"
+  },
+  {
+    "id": "createUserDialog.textFieldLabel.password",
+    "defaultMessage": "Password",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateUserDialog.jsx"
+  },
+  {
+    "id": "createCompanyDialog.buttons.close",
+    "defaultMessage": "Close",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateUserDialog.jsx"
+  },
+  {
+    "id": "createCompanyDialog.buttons.edit",
+    "defaultMessage": "Edit",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateUserDialog.jsx"
+  },
+  {
+    "id": "createCompanyDialog.buttons.create",
+    "defaultMessage": "Create",
+    "filepath": "locale/compiled/components/companies-page/dialogs/CreateUserDialog.jsx"
+  },
+  {
+    "id": "deleteCompanyDialog.title",
+    "defaultMessage": "Delete company",
+    "filepath": "locale/compiled/components/companies-page/dialogs/DeleteCompanyDialog.jsx"
+  },
+  {
+    "id": "deleteCompanyDialog.contentText",
+    "defaultMessage": "Are you sure you want to delete {company}?",
+    "filepath": "locale/compiled/components/companies-page/dialogs/DeleteCompanyDialog.jsx"
+  },
+  {
+    "id": "deleteCompanyDialog.buttons.close",
+    "defaultMessage": "Close",
+    "filepath": "locale/compiled/components/companies-page/dialogs/DeleteCompanyDialog.jsx"
+  },
+  {
+    "id": "deleteCompanyDialog.buttons.delete",
+    "defaultMessage": "Delete",
+    "filepath": "locale/compiled/components/companies-page/dialogs/DeleteCompanyDialog.jsx"
+  },
+  {
+    "id": "deleteUserDialog.title",
+    "defaultMessage": "Delete user",
+    "filepath": "locale/compiled/components/companies-page/dialogs/DeleteUserDialog.jsx"
+  },
+  {
+    "id": "deleteUserDialog.contentText",
+    "defaultMessage": "Are you sure you want to delete {user}?",
+    "filepath": "locale/compiled/components/companies-page/dialogs/DeleteUserDialog.jsx"
+  },
+  {
+    "id": "deleteUserDialog.buttons.close",
+    "defaultMessage": "Close",
+    "filepath": "locale/compiled/components/companies-page/dialogs/DeleteUserDialog.jsx"
+  },
+  {
+    "id": "deleteUserDialog.buttons.delete",
+    "defaultMessage": "Delete",
+    "filepath": "locale/compiled/components/companies-page/dialogs/DeleteUserDialog.jsx"
+  },
+  {
+    "id": "loginPage.heading.signup",
+    "defaultMessage": "Signup",
+    "filepath": "locale/compiled/components/LoginPage.jsx"
+  },
+  {
+    "id": "loginPage.heading.login",
+    "defaultMessage": "Login",
+    "filepath": "locale/compiled/components/LoginPage.jsx"
+  },
+  {
+    "id": "loginPage.button.login",
+    "defaultMessage": "Login",
+    "filepath": "locale/compiled/components/LoginPage.jsx"
+  },
+  {
+    "id": "loginPage.button.signup",
+    "defaultMessage": "Signup",
+    "filepath": "locale/compiled/components/LoginPage.jsx"
+  },
+  {
+    "id": "loginPage.button.login2",
+    "defaultMessage": "Login",
+    "filepath": "locale/compiled/components/LoginPage.jsx"
+  },
+  {
+    "id": "loginPage.button.signup2",
+    "defaultMessage": "Signup",
+    "filepath": "locale/compiled/components/LoginPage.jsx"
+  },
+  {
+    "id": "appBar.title.companies",
+    "defaultMessage": "Companies",
+    "filepath": "locale/compiled/components/MainPage.jsx"
+  },
+  {
+    "id": "appBar.title.raw",
+    "defaultMessage": "Raw",
+    "filepath": "locale/compiled/components/MainPage.jsx"
+  },
+  {
+    "id": "appBar.title.default",
+    "defaultMessage": "Administrator's interface",
+    "filepath": "locale/compiled/components/MainPage.jsx"
+  },
+  {
+    "id": "appBar.tooltip.logout",
+    "defaultMessage": "Logout",
+    "filepath": "locale/compiled/components/MainPage.jsx"
+  },
+  {
+    "id": "rawImport.success",
+    "defaultMessage": "Imported successfully",
+    "filepath": "locale/compiled/components/raw-page/RawPage.jsx"
+  },
+  {
+    "id": "rawImport.error",
+    "defaultMessage": "Import failed",
+    "filepath": "locale/compiled/components/raw-page/RawPage.jsx"
+  },
+  {
+    "id": "rawPage.buttons.getRaws",
+    "defaultMessage": "Get raw materials list",
+    "filepath": "locale/compiled/components/raw-page/RawPage.jsx"
+  },
+  {
+    "id": "rawPage.buttons.putRaws",
+    "defaultMessage": "Upload raw materials list",
+    "filepath": "locale/compiled/components/raw-page/RawPage.jsx"
+  }
+]

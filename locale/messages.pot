@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-10-28T14:10:47.941Z\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"X-Generator: react-intl-po\n"
+
+
+#: locale/messages.json
+#. [companyPanelDetails.buttons.addUser]
+#. defaultMessage is:
+#. Add user
+msgid "Add user"
+msgstr ""
+
+#: locale/messages.json
+#. [appBar.title.default]
+#. defaultMessage is:
+#. Administrator's interface
+msgid "Administrator's interface"
+msgstr ""
+
+#: locale/messages.json
+#. [deleteCompanyDialog.contentText]
+#. defaultMessage is:
+#. Are you sure you want to delete {company}?
+msgid "Are you sure you want to delete {company}?"
+msgstr ""
+
+#: locale/messages.json
+#. [deleteUserDialog.contentText]
+#. defaultMessage is:
+#. Are you sure you want to delete {user}?
+msgid "Are you sure you want to delete {user}?"
+msgstr ""
+
+#: locale/messages.json
+#. [companyPanel.tooltip.deleteCompanyDisabled]
+#. defaultMessage is:
+#. Can't delete a company that has users. Delete its users first
+msgid "Can't delete a company that has users. Delete its users first"
+msgstr ""
+
+#: locale/messages.json
+#. [createCompanyDialog.buttons.close]
+#. defaultMessage is:
+#. Close
+#: locale/messages.json
+#. [createCompanyDialog.buttons.close]
+#. defaultMessage is:
+#. Close
+#: locale/messages.json
+#. [deleteCompanyDialog.buttons.close]
+#. defaultMessage is:
+#. Close
+#: locale/messages.json
+#. [deleteUserDialog.buttons.close]
+#. defaultMessage is:
+#. Close
+msgid "Close"
+msgstr ""
+
+#: locale/messages.json
+#. [drawer.pages.companies]
+#. defaultMessage is:
+#. Companies
+#: locale/messages.json
+#. [appBar.title.companies]
+#. defaultMessage is:
+#. Companies
+msgid "Companies"
+msgstr ""
+
+#: locale/messages.json
+#. [createCompanyDialog.textFieldLabel.companyName]
+#. defaultMessage is:
+#. Company name
+msgid "Company name"
+msgstr ""
+
+#: locale/messages.json
+#. [loginPage.textFieldLabel.confirmPassword]
+#. defaultMessage is:
+#. Confirm password
+msgid "Confirm password"
+msgstr ""
+
+#: locale/messages.json
+#. [createCompanyDialog.buttons.create]
+#. defaultMessage is:
+#. Create
+#: locale/messages.json
+#. [createCompanyDialog.buttons.create]
+#. defaultMessage is:
+#. Create
+msgid "Create"
+msgstr ""
+
+#: locale/messages.json
+#. [companiesPage.fab.addCompany]
+#. defaultMessage is:
+#. Create company
+#: locale/messages.json
+#. [createCompanyDialog.title]
+#. defaultMessage is:
+#. Create company
+msgid "Create company"
+msgstr ""
+
+#: locale/messages.json
+#. [createUserDialog.title]
+#. defaultMessage is:
+#. Create user
+msgid "Create user"
+msgstr ""
+
+#: locale/messages.json
+#. [deleteCompanyDialog.buttons.delete]
+#. defaultMessage is:
+#. Delete
+#: locale/messages.json
+#. [deleteUserDialog.buttons.delete]
+#. defaultMessage is:
+#. Delete
+msgid "Delete"
+msgstr ""
+
+#: locale/messages.json
+#. [deleteCompanyDialog.title]
+#. defaultMessage is:
+#. Delete company
+msgid "Delete company"
+msgstr ""
+
+#: locale/messages.json
+#. [deleteUserDialog.title]
+#. defaultMessage is:
+#. Delete user
+msgid "Delete user"
+msgstr ""
+
+#: locale/messages.json
+#. [createCompanyDialog.buttons.edit]
+#. defaultMessage is:
+#. Edit
+#: locale/messages.json
+#. [createCompanyDialog.buttons.edit]
+#. defaultMessage is:
+#. Edit
+msgid "Edit"
+msgstr ""
+
+#: locale/messages.json
+#. [createCompanyDialog.title.edit]
+#. defaultMessage is:
+#. Edit company
+msgid "Edit company"
+msgstr ""
+
+#: locale/messages.json
+#. [createUserDialog.title.editUser]
+#. defaultMessage is:
+#. Edit user
+msgid "Edit user"
+msgstr ""
+
+#: locale/messages.json
+#. [rawPage.buttons.getRaws]
+#. defaultMessage is:
+#. Get raw materials list
+msgid "Get raw materials list"
+msgstr ""
+
+#: locale/messages.json
+#. [rawImport.error]
+#. defaultMessage is:
+#. Import failed
+msgid "Import failed"
+msgstr ""
+
+#: locale/messages.json
+#. [rawImport.success]
+#. defaultMessage is:
+#. Imported successfully
+msgid "Imported successfully"
+msgstr ""
+
+#: locale/messages.json
+#. [loginPage.heading.login]
+#. defaultMessage is:
+#. Login
+#: locale/messages.json
+#. [loginPage.button.login]
+#. defaultMessage is:
+#. Login
+#: locale/messages.json
+#. [loginPage.button.login2]
+#. defaultMessage is:
+#. Login
+msgid "Login"
+msgstr ""
+
+#: locale/messages.json
+#. [appBar.tooltip.logout]
+#. defaultMessage is:
+#. Logout
+msgid "Logout"
+msgstr ""
+
+#: locale/messages.json
+#. [page404.checkLink]
+#. defaultMessage is:
+#. Or double check the link. Or contact the administrator :-)
+msgid "Or double check the link. Or contact the administrator :-)"
+msgstr ""
+
+#: locale/messages.json
+#. [page404.title]
+#. defaultMessage is:
+#. Page not found
+msgid "Page not found"
+msgstr ""
+
+#: locale/messages.json
+#. [loginPage.textFieldLabel.password]
+#. defaultMessage is:
+#. Password
+#: locale/messages.json
+#. [createUserDialog.textFieldLabel.password]
+#. defaultMessage is:
+#. Password
+msgid "Password"
+msgstr ""
+
+#: locale/messages.json
+#. [drawer.pages.raw]
+#. defaultMessage is:
+#. Raw
+#: locale/messages.json
+#. [appBar.title.raw]
+#. defaultMessage is:
+#. Raw
+msgid "Raw"
+msgstr ""
+
+#: locale/messages.json
+#. [loginPage.heading.signup]
+#. defaultMessage is:
+#. Signup
+#: locale/messages.json
+#. [loginPage.button.signup]
+#. defaultMessage is:
+#. Signup
+#: locale/messages.json
+#. [loginPage.button.signup2]
+#. defaultMessage is:
+#. Signup
+msgid "Signup"
+msgstr ""
+
+#: locale/messages.json
+#. [page404.messageText]
+#. defaultMessage is:
+#. Try to go
+msgid "Try to go"
+msgstr ""
+
+#: locale/messages.json
+#. [rawPage.buttons.putRaws]
+#. defaultMessage is:
+#. Upload raw materials list
+msgid "Upload raw materials list"
+msgstr ""
+
+#: locale/messages.json
+#. [loginPage.textFieldLabel.userName]
+#. defaultMessage is:
+#. User name
+#: locale/messages.json
+#. [createUserDialog.textFieldLabel.userName]
+#. defaultMessage is:
+#. User name
+msgid "User name"
+msgstr ""
+
+#: locale/messages.json
+#. [page404.homeLink]
+#. defaultMessage is:
+#. home
+msgid "home"
+msgstr ""

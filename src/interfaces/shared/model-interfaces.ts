@@ -1,0 +1,1 @@
+../../../../backend/src/interfaces/shared/model-interfaces.ts

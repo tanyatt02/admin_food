@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-28T14:10:47.941Z\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#. [companyPanelDetails.buttons.addUser]
+#. defaultMessage is:
+#. Add user
+#: locale/messages.json
+msgid "Add user"
+msgstr "Добавить пользователя"
+
+#. [appBar.title.default]
+#. defaultMessage is:
+#. Administrator's interface
+#: locale/messages.json
+msgid "Administrator's interface"
+msgstr "Интерфейс администратора"
+
+#. [deleteCompanyDialog.contentText]
+#. defaultMessage is:
+#. Are you sure you want to delete {company}?
+#: locale/messages.json
+msgid "Are you sure you want to delete {company}?"
+msgstr "Вы уверены, что хотите удалить {company}?"
+
+#. [deleteUserDialog.contentText]
+#. defaultMessage is:
+#. Are you sure you want to delete {user}?
+#: locale/messages.json
+msgid "Are you sure you want to delete {user}?"
+msgstr "Вы уверены, что хотите удалить {user}?"
+
+#. [companyPanel.tooltip.deleteCompanyDisabled]
+#. defaultMessage is:
+#. Can't delete a company that has users. Delete its users first
+#: locale/messages.json
+msgid "Can't delete a company that has users. Delete its users first"
+msgstr ""
+"Нельзя удалить компанию, если в ней есть пользователи. Сначала удалить "
+"пользователей"
+
+#. [createCompanyDialog.buttons.close]
+#. defaultMessage is:
+#. Close
+#. [createCompanyDialog.buttons.close]
+#. defaultMessage is:
+#. Close
+#. [deleteCompanyDialog.buttons.close]
+#. defaultMessage is:
+#. Close
+#. [deleteUserDialog.buttons.close]
+#. defaultMessage is:
+#. Close
+#: locale/messages.json
+msgid "Close"
+msgstr "Закрыть"
+
+#. [drawer.pages.companies]
+#. defaultMessage is:
+#. Companies
+#. [appBar.title.companies]
+#. defaultMessage is:
+#. Companies
+#: locale/messages.json
+msgid "Companies"
+msgstr "Компании"
+
+#. [createCompanyDialog.textFieldLabel.companyName]
+#. defaultMessage is:
+#. Company name
+#: locale/messages.json
+msgid "Company name"
+msgstr "Название компании"
+
+#. [loginPage.textFieldLabel.confirmPassword]
+#. defaultMessage is:
+#. Confirm password
+#: locale/messages.json
+msgid "Confirm password"
+msgstr "Подтвердите пароль"
+
+#. [createCompanyDialog.buttons.create]
+#. defaultMessage is:
+#. Create
+#. [createCompanyDialog.buttons.create]
+#. defaultMessage is:
+#. Create
+#: locale/messages.json
+msgid "Create"
+msgstr "Создать"
+
+#. [companiesPage.fab.addCompany]
+#. defaultMessage is:
+#. Create company
+#. [createCompanyDialog.title]
+#. defaultMessage is:
+#. Create company
+#: locale/messages.json
+msgid "Create company"
+msgstr "Создать компанию"
+
+#. [createUserDialog.title]
+#. defaultMessage is:
+#. Create user
+#: locale/messages.json
+msgid "Create user"
+msgstr "Создать пользователя"
+
+#. [deleteCompanyDialog.buttons.delete]
+#. defaultMessage is:
+#. Delete
+#. [deleteUserDialog.buttons.delete]
+#. defaultMessage is:
+#. Delete
+#: locale/messages.json
+msgid "Delete"
+msgstr "Удалить"
+
+#. [deleteCompanyDialog.title]
+#. defaultMessage is:
+#. Delete company
+#: locale/messages.json
+msgid "Delete company"
+msgstr "Удалить компанию"
+
+#. [deleteUserDialog.title]
+#. defaultMessage is:
+#. Delete user
+#: locale/messages.json
+msgid "Delete user"
+msgstr "Удалить пользователя"
+
+#. [createCompanyDialog.buttons.edit]
+#. defaultMessage is:
+#. Edit
+#. [createCompanyDialog.buttons.edit]
+#. defaultMessage is:
+#. Edit
+#: locale/messages.json
+msgid "Edit"
+msgstr "Изменить"
+
+#. [createCompanyDialog.title.edit]
+#. defaultMessage is:
+#. Edit company
+#: locale/messages.json
+msgid "Edit company"
+msgstr "Редактировать компанию"
+
+#. [createUserDialog.title.editUser]
+#. defaultMessage is:
+#. Edit user
+#: locale/messages.json
+msgid "Edit user"
+msgstr "Редактировать пользователя"
+
+#. [rawPage.buttons.getRaws]
+#. defaultMessage is:
+#. Get raw materials list
+#: locale/messages.json
+msgid "Get raw materials list"
+msgstr "Скачать список сырья"
+
+#. [rawImport.error]
+#. defaultMessage is:
+#. Import failed
+#: locale/messages.json
+msgid "Import failed"
+msgstr "Импорт не удался =/"
+
+#. [rawImport.success]
+#. defaultMessage is:
+#. Imported successfully
+#: locale/messages.json
+msgid "Imported successfully"
+msgstr "Импорт прошёл успешно =)"
+
+#. [loginPage.heading.login]
+#. defaultMessage is:
+#. Login
+#. [loginPage.button.login]
+#. defaultMessage is:
+#. Login
+#. [loginPage.button.login2]
+#. defaultMessage is:
+#. Login
+#: locale/messages.json
+msgid "Login"
+msgstr "Вход"
+
+#. [appBar.tooltip.logout]
+#. defaultMessage is:
+#. Logout
+#: locale/messages.json
+msgid "Logout"
+msgstr "Выход"
+
+#. [page404.checkLink]
+#. defaultMessage is:
+#. Or double check the link. Or contact the administrator :-)
+#: locale/messages.json
+msgid "Or double check the link. Or contact the administrator :-)"
+msgstr ""
+"Или внимательно проверьте ссылку ещё раз. Или свяжитесь с "
+"администратором :-)"
+
+#. [page404.title]
+#. defaultMessage is:
+#. Page not found
+#: locale/messages.json
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#. [loginPage.textFieldLabel.password]
+#. defaultMessage is:
+#. Password
+#. [createUserDialog.textFieldLabel.password]
+#. defaultMessage is:
+#. Password
+#: locale/messages.json
+msgid "Password"
+msgstr "Пароль"
+
+#. [drawer.pages.raw]
+#. defaultMessage is:
+#. Raw
+#. [appBar.title.raw]
+#. defaultMessage is:
+#. Raw
+#: locale/messages.json
+msgid "Raw"
+msgstr "Сырьё"
+
+#. [loginPage.heading.signup]
+#. defaultMessage is:
+#. Signup
+#. [loginPage.button.signup]
+#. defaultMessage is:
+#. Signup
+#. [loginPage.button.signup2]
+#. defaultMessage is:
+#. Signup
+#: locale/messages.json
+msgid "Signup"
+msgstr "Регистрация"
+
+#. [page404.messageText]
+#. defaultMessage is:
+#. Try to go
+#: locale/messages.json
+msgid "Try to go"
+msgstr "Попробуйте перейти"
+
+#. [rawPage.buttons.putRaws]
+#. defaultMessage is:
+#. Upload raw materials list
+#: locale/messages.json
+msgid "Upload raw materials list"
+msgstr "Залить список сырья"
+
+#. [loginPage.textFieldLabel.userName]
+#. defaultMessage is:
+#. User name
+#. [createUserDialog.textFieldLabel.userName]
+#. defaultMessage is:
+#. User name
+#: locale/messages.json
+msgid "User name"
+msgstr "Имя пользователя"
+
+#. [page404.homeLink]
+#. defaultMessage is:
+#. home
+#: locale/messages.json
+msgid "home"
+msgstr "домой"
+
+#~ msgid "Add company"
+#~ msgstr "Добавить компанию"
