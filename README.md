@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+На странице Сырье по кнопке Добавить должен выпадать диалог и по Сохранить постится в базу. Как-то так
 ### `npm start`
 
 Runs the app in the development mode.<br>
