@@ -1,0 +1,78 @@
+{
+  "homepage": ".",
+  "name": "admin-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.5.0",
+    "@material-ui/icons": "^4.2.1",
+    "classnames": "^2.2.6",
+    "clone": "^2.1.2",
+    "file-saver": "^2.0.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-intl": "^3.1.9",
+    "react-redux": "^7.1.0",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "recompose": "^0.30.0",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "transliteration": "^2.1.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "npm ci && npm run build && cp -R ./build/* ./../backend/admin-static/",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "translate:tsc": "tsc --outDir locale/compiled --noEmit false 1>/dev/null 2>&1 || true",
+    "translate:extract": "react-intl-cra 'locale/compiled/**/*.@(jsx|js)' -o 'locale/messages.json'",
+    "translate:convert": "react-intl-po json2pot 'locale/messages.json' -o 'locale/messages.pot'",
+    "translate:cleanup": "rm -rf locale/compiled",
+    "extract": "npm run translate:tsc && npm run translate:extract && npm run translate:convert && npm run translate:cleanup",
+    "compile": "react-intl-po po2json 'locale/*.po' -m 'locale/messages.json' -o 'src/locale/'"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "proxy": "http://localhost:9002",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/classnames": "^2.2.9",
+    "@types/clone": "^0.1.30",
+    "@types/file-saver": "^2.0.1",
+    "@types/mongoose": "^5.5.43",
+    "@types/node": "^12.7.2",
+    "@types/react-dom": "^16.8.5",
+    "@types/react-redux": "^7.1.2",
+    "@types/react-router": "^5.0.3",
+    "@types/react-router-dom": "^4.3.4",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.18.0",
+    "eslint-plugin-standard": "^4.0.0",
+    "prettier": "^1.19.1",
+    "prettier-eslint": "^9.0.1",
+    "prettier-tslint": "^0.4.2",
+    "react-intl-cra": "^0.3.4",
+    "react-intl-po": "^2.2.2",
+    "react-scripts": "^3.4.1",
+    "tslint": "^6.1.1",
+    "typescript": "^3.5.3"
+  }
+}

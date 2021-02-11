@@ -1,0 +1,55 @@
+{
+    "env": {
+      "browser": true,
+      "commonjs": true,
+      "es6": true,
+      "node": true,
+      "mocha": true,
+      "jest": true
+    },
+    "extends": ["eslint:recommended", "plugin:react/recommended", "plugin:import/errors", "plugin:import/warnings"],
+    "parser": "babel-eslint",
+    "parserOptions": {
+      "ecmaVersion": 8,
+      "ecmaFeatures": {
+        "experimentalObjectRestSpread": true,
+        "jsx": true
+      },
+      "sourceType": "module"
+    },
+    "plugins": ["import", "react-hooks"],
+    "rules": {
+      "indent": ["error", 2, {
+        "SwitchCase": 1
+      }],
+      "quotes": ["error", "single", {
+        "allowTemplateLiterals": true
+      }],
+      "semi": ["error", "always"],
+      "max-len": ["error", {
+        "code": 120,
+        "tabWidth": 2,
+        "comments": 120
+      }],
+      "no-tabs": ["error"],
+      "linebreak-style": ["error"],
+      "eol-last": ["error", "always"],
+      "import/no-unresolved": ["error", {
+        "commonjs": true,
+        "amd": true
+      }],
+      "import/named": "warn",
+      "import/default": "warn",
+      "import/export": "warn",
+      "react-hooks/rules-of-hooks": "error",
+      "react-hooks/exhaustive-deps": "warn"
+    },
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "extensions": [".js", ".jsx", ".ts", ".tsx"]
+        }
+      }
+    }
+  }
+  
